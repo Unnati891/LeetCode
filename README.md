@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Unnati891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Unnati891/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Unnati891/LeetCode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Unnati891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
