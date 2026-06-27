@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Unnati891/LeetCode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Unnati891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Unnati891/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Unnati891/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Unnati891/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Unnati891/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
