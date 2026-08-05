@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Unnati891/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Unnati891/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Unnati891/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Unnati891/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Unnati891/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Unnati891/LeetCode/tree/master/0066-plus-one) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Unnati891/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Unnati891/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Unnati891/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Unnati891/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
