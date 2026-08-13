@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Unnati891/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Unnati891/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Unnati891/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Unnati891/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Unnati891/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Unnati891/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
