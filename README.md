@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Unnati891/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Unnati891/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Unnati891/LeetCode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Unnati891/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Unnati891/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Unnati891/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Unnati891/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Unnati891/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Unnati891/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Unnati891/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Unnati891/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Unnati891/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
