@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Unnati891/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Unnati891/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Unnati891/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Unnati891/LeetCode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Unnati891/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Unnati891/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Unnati891/LeetCode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Unnati891/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Unnati891/LeetCode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Unnati891/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Unnati891/LeetCode/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Unnati891/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
