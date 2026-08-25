@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Unnati891/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Unnati891/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Unnati891/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Unnati891/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Unnati891/LeetCode/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Unnati891/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Unnati891/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Unnati891/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Unnati891/LeetCode/tree/master/0349-intersection-of-two-arrays) |
