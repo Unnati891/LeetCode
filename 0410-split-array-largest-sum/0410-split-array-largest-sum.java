@@ -3,7 +3,7 @@ class Solution {
         int left=0;
         int right=0;
         for(int num:nums){
-            left=Math.max(num,left);
+            left=Math.max(left,num);
             right+=num;
         }
         while(left<=right){
@@ -13,8 +13,7 @@ class Solution {
             for(int num:nums){
                 if(curSum+num<=mid){
                     curSum+=num;
-                }
-                else{
+                }else{
                     split++;
                     curSum=num;
                 }
