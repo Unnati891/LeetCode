@@ -1,19 +1,19 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        Stack<Character>st=new Stack<>();
-        Stack<Character>ts=new Stack<>();
+        if(s.length()!=t.length()){
+            return false;
+        }
+        int fs[]=new int[26];
+        int ft[]=new int[26];
         for(int i=0;i<s.length();i++){
-            st.push(s.charAt(i));
+            fs[s.charAt(i)-'a']++;
+            ft[t.charAt(i)-'a']++;
         }
-        for(int i=0;i<t.length();i++){
-            ts.push(t.charAt(i));
-        }
-        while(!st.isEmpty()){
-            char c=st.pop();
-            if(!ts.remove((Character)c)){
+        for(int i=0;i<26;i++){
+            if(fs[i]!=ft[i]){
                 return false;
             }
         }
-        return ts.isEmpty();
+        return true;
     }
 }
